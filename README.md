@@ -1,4 +1,4 @@
-## **Simple Code To Find Outlier Data**
+## **How To Find Outlier Data?**
 
     [x] Scatter Plot
     [x] Box Plot
