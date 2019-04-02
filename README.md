@@ -1,2 +1,5 @@
-# outliers-data
-Simple Code To Find Outlier Data
+## **Simple Code To Find Outlier Data**
+
+    [x] Scatter Plot
+    [x] Box Plot
+    [x] Z Score
